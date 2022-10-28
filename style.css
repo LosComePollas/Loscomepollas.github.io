@@ -20,7 +20,8 @@ body {
 }
 
 header {
-	background:  #024959  ;
+	background:  #04afd5  ;
+	border-radius: 15px;
 	outline: solid 2px black;
 	width:100%;
 	padding:20px;
@@ -45,7 +46,7 @@ header .logo img {
 }
 
 header .logo a {
-	color:#fff;
+	color:rgb(85, 84, 84);
 	text-decoration: none;
 	line-height:50px;
 }
